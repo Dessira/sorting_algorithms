@@ -1,13 +1,13 @@
-<h>Sorting algorithms & Big O1</h1>
+<h1>Sorting algorithms & Big O</h1>
 <p>Description goes here<p>
-<h>Built With1</h1>
+<h1>Built With</h1>
 > - C
-<h>Usage</h1>
+<h1>Usage</h1>
 > - 
-<h>Contributors1</h1>
-> - MyName
+<h1>Contributors</h1>
+> - Barine Desire
 > - Osademe Emmanuel
-<h>Resources1</h1>
+<h1>Resources</h1>
 > Resource1
 > Resource2
 > Resource3
