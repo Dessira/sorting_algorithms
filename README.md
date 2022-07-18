@@ -6,7 +6,7 @@
 > - 
 <h>Contributors1</h1>
 > - MyName
-> - Partner
+> - Osademe Emmanuel
 <h>Resources1</h1>
 > Resource1
 > Resource2
