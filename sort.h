@@ -1,7 +1,3 @@
-/**
- * sort.h - Header file for sorting algorithms
- * Authors: Desire && Emmanuel
- */
 #ifndef SORT_H
 #define SORT_H
 
