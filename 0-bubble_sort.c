@@ -5,7 +5,7 @@
  * in ascending order using Bubble sort
  * @array: array to be sorted
  * @size: size of the array
- * 
+ *
  * Return: void
  */
 void bubble_sort(int *array, size_t size)
